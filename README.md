@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NoPleaseNorbi
-- 👀 I am currently looking for a good GUI library for c++
+- 👀 I am currently looking for a good GUI library for C++
 - 🌱 I’m currently learning at the Faculty of Mathematics and Physics, Charles University, Prague
 - 💻 My major is Programming and Software Development
 - 📐 I’m interested in graph theory and neuro-networks.
