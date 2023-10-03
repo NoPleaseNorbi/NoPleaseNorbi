@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @NoPleaseNorbi
-- 👀 Constantly looking for a good GUI library for C++
-- 🌱 I’m currently learning at the Faculty of Mathematics and Physics, Charles University, Prague
-- 💻 My major is Programming and Software Development
-- 📐 I’m interested in graph theory and neuro-networks.
+- Hi, I’m Norbi a 21 y/o student from Slovakia, based in Prague.
+- I’m currently learning at the Faculty of Mathematics and Physics, Charles University, Prague
